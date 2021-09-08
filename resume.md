@@ -45,8 +45,8 @@ Built proxy servers to control and document outbound traffic flows, with
 full metrics and alerting (squid, collectd, graphite).  Performed fleet wide
 upgrades of critical firmware and software packages, and operating systems
 upgrades (ansible, Debian).  Helped define architectural needs of move to
-cloud enviroment (Google Compute Engine, Cloud Storage).  Defined
-infrastructure requirements for cloud enviroment(s), and then setup admin
+cloud environment (Google Compute Engine, Cloud Storage).  Defined
+infrastructure requirements for cloud environment(s), and then setup admin
 and configuration management stack in each (DHCP, DNS, puppet, innobackupex
 (Percona), NFS, SMTP, SSH, Nagios, apt).  Wrote tooling for replication of
 production servers into cloud environments.  Wrote tooling and procedures
