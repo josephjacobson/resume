@@ -11,7 +11,29 @@
 ## EXPERIENCE
 **Evernote**	*Philadelphia, PA*
 
-**Senior Operations Engineer**	*October 2014-Present*
+**Engineering Manager, SRE**	*October 2019-Present*
+
+Consistently meet and exceeded the target SRE SLO of 99.95%.  Was Incident
+Manager for production issues, coordinated multiple cross-team incidents and
+Postmortem reviews.  Owned the Postmortem process.  Oversaw important vendor
+relations, owned the implementation of numerous company-wide tools and
+instrumentation: Datadog, Splunk, Kubernetes.  Lead and executed complex
+projects, demonstrated high-level judgement when evaluating risk and
+trade-offs.  Oversaw and was instrumental in multiple highest priority
+projects whose progress was monitored by Leadership Team:  JDK11, Monolith
+upgrades, Disaster recovery readiness, APIGW, Akamai KSD.  For disaster
+recovery and monolith upgrades, added zone-level redundancy while also
+reduced cost by 25%.  Delivered a backup solution that protected customer
+data for a longer period at lower cost.  Managed the team Jira projects and
+weekly SRE team meetings, focusing on reliability, incident review, and
+weekly releases.  Hired multiple staff level engineers, increasing team size
+by 33%.  Experienced in managing remote teams.  Expert in many areas in
+systems, automation, provisioning, and monitoring.
+
+
+**Evernote**	*Philadelphia, PA*
+
+**Senior Operations Engineer**	*October 2014-October 2019*
 
 Specified requirements for updated virtualization solution and directed work
 for updating operational tooling to support this.  Evaluated next generation
