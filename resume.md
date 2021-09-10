@@ -17,17 +17,17 @@ Consistently meet and exceeded the target SRE SLO of 99.95%.  Was Incident
 Manager for production issues, coordinated multiple cross-team incidents and
 Postmortem reviews.  Owned the Postmortem process.  Oversaw important vendor
 relations, owned the implementation of numerous company-wide tools and
-instrumentation: Datadog, Splunk, Kubernetes.  Lead and executed complex
+instrumentation: Datadog, Splunk, Kubernetes.  Led and executed complex
 projects, demonstrated high-level judgement when evaluating risk and
 trade-offs.  Oversaw and was instrumental in multiple highest priority
 projects whose progress was monitored by Leadership Team:  JDK11, Monolith
 upgrades, Disaster recovery readiness, APIGW, Akamai KSD.  For disaster
 recovery and monolith upgrades, added zone-level redundancy while also
 reduced cost by 25%.  Delivered a backup solution that protected customer
-data for a longer period at lower cost.  Managed the team Jira projects and
-weekly SRE team meetings, focusing on reliability, incident review, and
+data for a longer period and for lower cost.  Managed the team Jira projects
+and weekly SRE team meetings, focusing on reliability, incident review, and
 weekly releases.  Hired multiple staff level engineers, increasing team size
-by 33%.  Experienced in managing remote teams.  Expert in many areas in
+by 33%.  Experienced in managing remote teams.  Recognized as an expert in
 systems, automation, provisioning, and monitoring.
 
 
