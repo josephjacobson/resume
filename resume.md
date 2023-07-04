@@ -9,7 +9,7 @@ a proven history of operational excellence as an SRE and DevOps manager.
 Building and leading teams to reduce toil and increase automation.
 Expertise in incident management.  Works closely with other teams and owners
 to deliver company objectives.  Owned and managed critical infrastructure
-and lead large scale projects to transition to new technologies.
+and led large scale projects to transition to new technologies.
 
 
 
@@ -18,7 +18,7 @@ and lead large scale projects to transition to new technologies.
 
 **Senior Manager, Engineering**	*March 2022-Present*
 
-Lead SRE and DevOps teams, owning all infrastructure.  Worked with
+Led SRE and DevOps teams, owning all infrastructure.  Worked with
 engineering teams to understand objectives and help deliver new features,
 improve architecture and security.  Managed multiple vendor relationships
 (Datadog, AWS, Cloudflare, Digicert).  Oversaw projects to upgrade 95% of
@@ -30,7 +30,7 @@ automation on KTLO toil procedures.  Directed and led adoption of
 Infrastructure as Code practices (IaC, terraform) for the updating of legacy
 systems, certificates, and monitors.  Supported multiple company
 initiatives, provided architecture advice, capacity planning, infrastructure
-buildout, and coordinated rollouts.  Lead the migration of hosted source and
+buildout, and coordinated rollouts.  Led the migration of hosted source and
 build systems to cloud alternatives for increased engineering velocity
 (GitHub, CircleCI).
 
