@@ -2,22 +2,48 @@
 ###### jacobson@pobox.com
 
 
-## TECHNICAL
-**Industries:**  web services, cloud, streaming media, cellular/wireless, energy generation, bioinformatics, energy exploration, telecommunications, financial, healthcare, aerospace, government, defense
 
-**Projects:**  configuration management, infrastructure automation, cloud computing, web services, performance monitoring, operations monitoring, high availability, 24x7 operations, disaster recovery, mail gateways, network utilities, shell utilities, embedded control systems, embedded operating systems, compilers
+## SUMMARY
+Programmer turned sysadmin turned manager, bringing technical expertise with
+a proven history of operational excellence as an SRE and DevOps manager.
+Building and leading teams to reduce toil and increase automation.
+Expertise in incident management.  Works closely with other teams and owners
+to deliver company objectives.  Owned and managed critical infrastructure
+and lead large scale projects to transition to new technologies.
+
 
 
 ## EXPERIENCE
 **Evernote**	*Philadelphia, PA*
 
-**Engineering Manager, SRE**	*October 2019-Present*
+**Senior Manager, Engineering**	*March 2022-Present*
+
+Lead SRE and DevOps teams, owning all infrastructure.  Worked with
+engineering teams to understand objectives and help deliver new features,
+improve architecture and security.  Managed multiple vendor relationships
+(Datadog, AWS, Cloudflare, Digicert).  Oversaw projects to upgrade 95% of
+production infrastructure, including delivering multi-cluster Kubernetes
+(k8s) capability and the migration of micro-services to new infrastructure.
+Worked closely with Customer Experience team to address customer related
+issues that required deep technical solutions.  Directed increased
+automation on KTLO toil procedures.  Directed and led adoption of
+Infrastructure as Code practices (IaC, terraform) for the updating of legacy
+systems, certificates, and monitors.  Supported multiple company
+initiatives, provided architecture advice, capacity planning, infrastructure
+buildout, and coordinated rollouts.  Lead the migration of hosted source and
+build systems to cloud alternatives for increased engineering velocity
+(GitHub, CircleCI).
+
+
+**Evernote**	*Philadelphia, PA*
+
+**Engineering Manager, SRE**	*October 2019-March 2022*
 
 Consistently meet and exceeded the target SRE SLO of 99.95%.  Was Incident
 Manager for production issues, coordinated multiple cross-team incidents and
 Postmortem reviews.  Owned the Postmortem process.  Oversaw important vendor
 relations, owned the implementation of numerous company-wide tools and
-instrumentation: Datadog, Splunk, Kubernetes.  Led and executed complex
+instrumentation: Datadog, Splunk, Kubernetes (K8s).  Led and executed complex
 projects, demonstrated high-level judgement when evaluating risk and
 trade-offs.  Oversaw and was instrumental in multiple highest priority
 projects whose progress was monitored by Leadership Team:  JDK11, Monolith
@@ -109,4 +135,9 @@ decisions and training of new hires.  Implemented test systems for mission
 critical infrastructure.  Wrote various tools for internal use. Wrote guides
 for debugging network performance issues.
 
+
+
+## EDUCATION
+**University of Maryland at College Park**     *College Park, MD*
+Computer science, minor in history
 
