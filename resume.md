@@ -16,7 +16,7 @@ and led large scale projects to transition to new technologies.
 ## EXPERIENCE
 **Evernote**	*Philadelphia, PA*
 
-**Senior Manager, Engineering**	*March 2022-Present*
+**Senior Manager, Engineering**	*March 2022-September 2023*
 
 Led SRE and DevOps teams, owning all infrastructure.  Worked with
 engineering teams to understand objectives and help deliver new features,
