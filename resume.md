@@ -14,6 +14,16 @@ and led large scale projects to transition to new technologies.
 
 
 ## EXPERIENCE
+**Astrana Health**      *Philadelphia, PA*
+
+**Support Engineering Manager **        *June 2024-Present*
+Managed multiple teams focused on supporting the SDLC: QA, web portal
+support, Technical Program Managers, and Electronic Health Record
+specialists.  Interacted with multiple teams across the business.  Supported
+internal and external customers.  Managed contractors.  Led adoption of
+automated testing.  Ingested, converted, and transformed EHR data.
+
+
 **Evernote**	*Philadelphia, PA*
 
 **Senior Manager, Engineering**	*March 2022-September 2023*
